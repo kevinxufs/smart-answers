@@ -1,5 +1,7 @@
-PATH
-  remote: ../govuk_publishing_components
+GIT
+  remote: https://github.com/alphagov/govuk_publishing_components
+  revision: 8656f324f5917c8c3c25b35c2c83e720e47ee2b4
+  ref: 8656f324f5917c8c3c25b35c2c83e720e47ee2b4
   specs:
     govuk_publishing_components (35.23.0)
       govuk_app_config
