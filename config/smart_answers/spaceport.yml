@@ -1,0 +1,83 @@
+- id: r19
+  title: "Apply for a launch and return licence"
+  description: "A launch and return licence is for spaceflight activities that include a launch vehicle. It can cover a single launch, 
+  or a series of launches including traditional vertically-launched vehicles from a spaceport, air-launched vehicles from a carrier 
+  aircraft, and suborbital spaceplanes and balloons.\n
+  Launch and return licences are required by the Space Industry Act 2018, supported by the Space Industry Regulations 2021.
+  The Regulator's Licencsing rules specify which application form to use to apply for a licence and what information the 
+  regulator will require. This information will include:\n
+   - A safety case\n
+   - An Assessment of Environmental Effects.\n
+   - A draft security programme and cyber security strategy\n
+   - Evidence of engagement with insurers"
+  url: "https://www.caa.co.uk/space/licences-and-permissions/launch-or-return-operator/"
+  topic: 
+  group: "Licences you may need to apply for"
+- id: r20
+  title: "Apply for a marine licence"
+  description: "If your vehicle or any debris is returning to territorial waters in the United Kingdom, you will need to 
+  apply for a marine licence from the appropriate regulator:\n
+  - The Marine Management Organisation in England\n
+  - Natural Resources Wales in Wales\n
+  - Marine Scotland in Scotland\n
+  - Department of Agriculture, Environtment and Rural Affairs in Northern Ireland"
+  url: "https://www.gov.uk/apply-marine-licence"
+  topic: 
+  group: "Licences you may need to apply for"
+- id: r21
+  title: "Apply for permission to launch a large rocket"
+  description: "Launch activity of a large rocket capable of operating below the stratosphere (about 47km altitude)
+  requires a permission under Article 96 of the Air Navigation Order.\n
+  To apply to launch a large rocket, you need to complete an application form. A large rocket, you need to complete an application 
+  form. You will need to provide information like your planned launch site, key people involved in the launch, and details 
+  of your rocket and your planned flight, including:\n
+  - Planned apogee (maximum altitude) the rocket will be reaching\
+  - Launch azimuth (angle of the launch relative to true north)"
+  url: "https://www.caa.co.uk/space/licences-and-permissions/large-rocket-permission/applying-for-permission-to-launch-a-large-rocket/"
+  topic: 
+  group: "Licences you may need to apply for"
+- id: r22
+  title: "Airspace changes"
+  description: "Your launch and return mission may need an airspace change or notified restriction. You can find out what 
+  will be involved, how long it might take, and who you need to contact in the pre-application stage through the Civil Aviation 
+  Authority.\n
+  If your launch will cross into other countries' airspace, you will likely need further permissions from their authorities. The 
+  Civil Aviation Authority can help you secure theese."
+  url: "https://www.caa.co.uk/commercial-industry/airspace/airspace-change/airspace-change/"
+  topic: 
+  group: "Regulations you may need to follow"
+- id: r23
+  title: "Airspace changes"
+  description: "Your launch and return mission may need an airspace change or notified restriction. You can find out what 
+  will be involved, how long it might take, and who you need to contact in the pre-application stage through the Civil Aviation 
+  Authority."
+  url: "https://www.caa.co.uk/commercial-industry/airspace/airspace-change/airspace-change/"
+  topic: 
+  group: "Regulations you may need to follow"
+- id: r24
+  title: "Seek regulator advice about sea launches"
+  description: "Sea launch is a complex area; organisations wishing to conduct sea launches are advised to contact the 
+  regulator before applying for a licence"
+  url: "https://www.caa.co.uk/space/licences-and-permissions/launch-or-return-operator/"
+  topic: 
+  group: "Licences you may need to apply for"
+- id: r25
+  title: "Read guidance about launch and return licences"
+  description: "This guidance is designed to help people or organisations that wish to apply for a launch 
+  operator or return operator licence in relation to spaceflight activities. It explains what 
+  information applicants will need to provide as part of their application to conduct those 
+  spaceflight activities. It also sets out the duties of a spaceflight operator - whether they hold a 
+  launch operator or a return operator licence - once that licence is granted. In doing so, it 
+  provides a summary of relevant sections of the Space Industry Act 2018 - particularly sections 
+  9 and 19 (1)(b)of the Act.  "
+  url: "https://assets.publishing.service.gov.uk/media/5f21792ed3bf7f1b1119243b/guidance-for-launch-and-return-operator-licence-applicants-and-licensees.pdf"
+  topic: 
+  group: "Good to know"
+- id: r26
+  title: "Use hazardous and explosive substances safely"
+  description: "Your spacecraft is likely to use propellant and other substances that are subject to the Health and Safety 
+  Executive's regulations about using hazardous and explosive substances. In most cases, the spaceport will be required to 
+  obtain an explosives licence, but you should ensure your business is also meeting the Health and Safety Executive's regulations."
+  url: "https://www.hse.gov.uk/explosives/licensing/how-to-apply.htm"
+  topic: 
+  group: "Good to know"

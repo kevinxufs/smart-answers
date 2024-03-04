@@ -1,0 +1,25 @@
+<%#
+======================================================================
+Question 1
+======================================================================
+%>
+
+
+<% text_for :caption do %>
+  Adhere to regulations for space activities
+  <% end %>
+  
+  <% text_for :title do %>
+  What type of space activity do you plan to do?
+  <% end %>
+  
+  <% text_for :hint do %>
+  Select one option.
+  <% end %>
+  
+  <% options(
+  "spaceport": "Operate a spaceport",
+  "range_control": "Provide range control services",
+  "launch_and_return": "Launch and return a spacecraft",
+  "orbital_space_object": "Operate an orbital space object",
+  ) %>

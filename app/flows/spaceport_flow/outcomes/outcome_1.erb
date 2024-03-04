@@ -1,0 +1,28 @@
+<%#
+  ======================================================================
+  The outcome (or results) page of the flow.
+  You can have as many of these as you need.
+  ======================================================================
+%>
+
+<% text_for :title do %>
+Results<% end %>
+
+<% govspeak_for :description do %>
+  The following list is based on your answers. Use it to find out about what to do in order to carry out your space activity.
+
+  It might not cover everything specific to your business, so make sure you engage with the relevant regulators, such as the Civil Aviation Authority 
+  and the UK Space Agency.
+<% end %>
+
+<% text_for :body do %>
+  <% calculator.grouped_results.each.with_index(1) do |(group, topics), index| %>
+    <%= render "govuk_publishing_components/components/heading", {
+      text: group,
+      font_size: "l",
+      border_top: 2,
+      padding: true
+    } %>
+    <%= render "components/result_sections", { topics: topics, group_index: index } %>
+  <% end %>
+<% end %>

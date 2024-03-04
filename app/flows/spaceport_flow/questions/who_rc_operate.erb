@@ -1,0 +1,27 @@
+<% text_for :caption do %>
+
+    Adhere to regulations for space activities
+    
+    <% end %>
+    
+    <% text_for :title do %>
+    
+    Who will the range control services be operated for:
+   
+    <% end %>
+    
+    <% text_for :hint do %>
+    
+    Select one option.
+    
+    <% end %>
+    
+    <% options(
+    
+    "own_launch": "For a spacecraft launch operated by your company?",
+    
+    "third_party": "For a third party?",
+    
+    "both": "For either your own company or third party, depending on the launch",
+    
+    ) %>
